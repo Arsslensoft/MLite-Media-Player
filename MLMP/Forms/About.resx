@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="creditsTextBox.Text" xml:space="preserve">
+    <value>Arsslensoft - Copyright © 2013
+M-Lite Media Player is licensed under EULA 
+this software is developed by Arsslensoft 
+based on an open-source project
+
+EULA :
+
+AGREEMENT END USER LICENSE AGREEMENT ("EULA")
+
+THE FOLLOWING TERMS AND CONDITIONS (THE "EULA") FOR USE
+THIS SOFTWARE. THESE ARE THE ONLY RIGHTS YOU HAVE ON THIS
+SOFTWARE. THEREFORE, IF YOU DO NOT ACCEPT THIS "EULA"
+DO NOT USE THE SOFTWARE.
+
+CONSENT: By accepting the terms of the license or
+opening the bundle containing the software, you agree to (i) this EULA
+as valid and legally binding. You agree to (ii) respect the rights
+intellectual property and all conditions of this EULA, and you
+agree to (iii) take all necessary measures to ensure
+no condition of this EULA is breached by a person or entity
+under your authority or your service.
+
+GRANT OF LICENSE: Licensor grants you the
+personal, limited, nonexclusive, nontransferable and transferable to
+only requirement to use a single copy of software on one computer or
+device and a single concurrent user, and only if you
+adhere to all conditions of this EULA. Third-party software delivered in the same
+time that this software is distributed under the terms of the agreement
+license accompanying the software. "Software" means software or
+firmware of a device and any associated documentation (including
+including design, systems and user documentation) and
+any other factor which is related to the use of this software bundle. "
+Third Party Software "means the Software and the license that accompanies
+owned by a company other than Arsslensoft, but which nevertheless may be
+distributed and / or installed at the same time as the Software distributed under
+of this EULA. The foregoing is an express authorization of use
+limited and not an assignment, sale or other transfer of software or
+intellectual property right (as defined below) Provider
+license.
+
+RESTRICTIONS:
+
+(A) It is prohibited to copy, modify, combine, sell, lease, redistribute, assign
+or otherwise transfer the Software or any part thereof.
+
+(B) You may make a single copy for backup purposes,
+elements included in this bundle or related software.
+
+(C) It is also forbidden to reverse engineer, decompile,
+translate, disassemble, decrypt, decrypt, or try some
+Another way to discover the source code of software. You also can not
+more change, alter, adapt, or be combined software.
+
+(D) You can not remove, alter, disguise, cover or deface
+an otherwise patent, trademark, service mark
+or notice of copyright Provider's license.
+
+(E) You may not publish or distribute, in electronic publishing
+or printed, the information contained or linked to Software, including but would
+limitation, object code, documentation, help files, examples and
+performance tests.
+
+NO COMMERCIAL USE: This EULA grants you the right to use
+software solely for your personal use. Commercial use
+our software or products derived from its use is not authorized by
+this EULA.
+
+COMPLIANCE WITH LAWS: You agree that in obtaining, installing,
+distributing, performing or otherwise taking advantage of the software, you
+comply with all applicable laws, including without limitation laws
+intellectual property and export control.
+
+TERM: This license is effective until terminated. You may terminate
+this license at any time by uninstalling the software. Upon termination, you
+agree to uninstall the software and return or destroy all copies
+software, any accompanying documentation and all other related items.
+
+GOVERNING LAW: This EULA is governed by the laws of the State of California and
+the laws of the United States, except conflict of law principles. The Convention
+United Nations on Contracts for the International Sale of Goods
+(1980) is excluded in its entirety hereby and does not apply to
+License Agreement.
+
+WARRANTIES AND DISCLAIMER OF LIABILITY:
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE
+IS PROVIDED "AS IS". THERE IS NO WARRANTY PROVIDED IN THIS
+EULA, AND LICENSOR DISCLAIMS ANY WARRANTY
+OF MERCHANTABILITY OR FITNESS
+SPECIAL, OR THE WARRANTY OF NON-INFRINGEMENT.
+ 
+Warning:
+you have no guarantees from the supplier or partner or software application
+
+
+
+IN NO EVENT WILL LICENSOR OR ITS SUPPLIERS
+BE LIABLE TO YOU OR ANY THIRD PARTY
+ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY
+DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION,
+THOSE RESULTING FROM LOSS OF USE, DATA OR
+BENEFITS THAT THE PROVIDERS OF LICENSE HAS BEEN ADVISED OR NOT
+OF THE POSSIBILITY OF SUCH DAMAGES, AND IN CASE OF THEORY
+OR LIABILITY ARISING IN CONNECTION WITH THE USE OF THE SOFTWARE.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR
+LIMITATION OF LIABILITY FOR CONSEQUENTIAL DAMAGES
+OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT
+APPLY TO YOU. THESE LIMITATIONS SHALL APPLY
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ACTION
+JUSTICE LIMITED.
+
+SEVERABILITY: In the event any provision of this EULA was declared
+invalid, illegal or unenforceable, the validity, legality and enforceability
+of the remaining provisions would in no way be affected or impaired and a
+provision valid, legal and binding purposes and economic impact
+Similar would be substituted.
+
+ENTIRE AGREEMENT: This EULA constitutes the entire agreement between you and
+Licensor, supersedes all prior agreements, written or oral,
+regarding the software, and can not be amended except in writing signed by both
+parties.
+
+
+Arsslensoft.
+http://www.arsslensoft.tk
+</value>
+  </data>
+</root>
